@@ -1,0 +1,11 @@
+#	general configuration file 
+#	command [tab] data
+#	commands: only the first character is checked 
+#	port number 0 = first available[default laptop] , 1 = second [default PC]
+#       range -n..+n
+#	filter size (window average)
+#	==========================================================================
+port	2
+range	1000
+filter	10
+#	end ======================================================================
